@@ -2,7 +2,7 @@
 
 **A VU meter audio plugin.**
 
-NeedleVU is an audio plugin project focused on providing a straightforward VU metering experience for audio production and engineering workflows.
+NeedleVU is an audio plugin project focused on providing an genuine VU metering experience for audio production and engineering workflows. The purpose of this is to focus on gain structure and operating your production at a healthy level. 
 
 This repository contains the source code and development files for NeedleVU.
 
