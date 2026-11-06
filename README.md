@@ -62,7 +62,7 @@ Key directories and files:
 
 - [x] Initial AU build for macOS
 - [x] Initial VST3 build for macOS
-- [ ] Expand macOS DAW compatibility testing
+- [x] Expand macOS DAW compatibility testing
 - [ ] Build and test Windows VST3
 - [ ] Prepare beta distribution packages
 - [ ] Collect peer feedback
