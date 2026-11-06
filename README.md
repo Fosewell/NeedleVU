@@ -74,12 +74,4 @@ Beta builds will be distributed separately through the NeedleVU-Beta repository.
 
 Please report bugs, compatibility issues, and suggestions through the designated feedback channels.
 
-## Licensing
-
-NeedleVU is built using the JUCE framework.
-
-Project licensing and distribution terms are to be documented before public distribution.
-
----
-
 **NeedleVU — In Development**
